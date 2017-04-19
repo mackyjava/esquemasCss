@@ -1,0 +1,36 @@
+.contenedor{
+	display: block;
+	width: 400px;
+	height: 400px;
+	margin-left: 50px;
+	margin-bottom: 100px;
+	position:relative;
+}
+#primera {
+	background: red;
+}
+#segunda {
+	background: blue;
+}
+.caja {
+	 width: 200px;
+	 height: 200px;
+	 position: absolute;
+	 margin: 100px 100px;
+}
+#cj1 {
+	background: purple;
+}
+#cj2 {
+	background: green;
+} 
+.cajita {
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	margin-top: 0;
+	margin-left: 0;
+}
+#cjta1 {
+	background: yellow;
+}
